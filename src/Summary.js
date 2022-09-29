@@ -11,32 +11,34 @@ return (
 </div>
 <div className="summary_row">
 <div className="summary_single">
-<label>Manager 1</label>
 <label className="summary_value">18</label>
+<label>Manager 1</label>
 </div>
 <div className="summary_single">
-<label>Manager 1</label>
 <label className="summary_value">12</label>
+<label>Manager 1</label>
 </div>
 <div className="summary_single">
-<label>Manager 1</label>
 <label className="summary_value">32</label>
-</div>
-</div> <div className="summary_row">
-<div className="summary_single">
 <label>Manager 1</label>
+</div>
+</div>
+<div className="summary_row">
+<div className="summary_single">
 <label className="summary_value">32</label>
+<label>Manager 1</label>
 </div>
 <div className="summary_single">
-<label>Manager 1</label>
 <label className="summary_value">4</label>
+<label>Manager 1</label>
 </div>
 <div className="summary_single">
-<label>Manager 1</label>
 <label className="summary_value">11</label>
+<label>Manager 1</label>
 </div>
 </div>
+
 </div>
 </>
-);
+)
 }
